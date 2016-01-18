@@ -17,6 +17,7 @@
 		"psr-0": {
 					"Felixfw1990\\Test\\":"src/"
 				}
-	}
+	},
+	"minimum-stability": "stable"
 
 }
