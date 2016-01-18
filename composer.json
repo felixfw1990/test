@@ -1,0 +1,22 @@
+{
+    "name": "felixfw1990/test",
+    "authors": [
+        {
+            "name": "felix",
+            "email": "felixfw1990@gmail.com"
+        }
+    ],
+	"repositories":[
+		{
+			"type":"vcs",
+			"url":"https://github.com/felixfw1990/test"
+		}
+	],
+    "require": {},
+	"autoload": {
+		"psr-0": {
+					"Felixfw1990\\Test\\":"src/"
+				}
+	}
+
+}
