@@ -10,7 +10,7 @@
     "require": {},
 	"autoload": {
 		"psr-0": {
-					"Felix\\Test\\":"src/"
+					"Felix\\":"src/"
 				}
 	},
 	"minimum-stability": "stable"
