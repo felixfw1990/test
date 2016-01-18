@@ -1,4 +1,4 @@
-<?php namespace Felixfw1990\Test;
+<?php namespace Felix\Test;
 class Test{
 	function TestOne(){
 		echo 'Hello! TestOne';
